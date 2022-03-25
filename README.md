@@ -38,8 +38,6 @@
 ### Ferramentas que costumo utilizar
 
 <div style="display: inline_block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff" />
-    <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img width="50px" aling="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    <img width="50px" aling="center" alt="Sublime-Text" src="https://img.icons8.com/fluency/96/000000/sublime-text.png" />  
 </div>
-
