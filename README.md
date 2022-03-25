@@ -1,10 +1,10 @@
-## Olá 😃! Eu sou o Isaque Soares
+## Hello 😃! I'm Isaque Soares
 
-📌 Estudo Sistemas de informação na Universidade estácio de sá 
+📌 I study Information Systems at the Universidade Estácio de Sá
 
-📚 Estou estudando o pacote Full Stack Master da Danki Code
+📚 I am studying the Full Stack Master package from Danki Code
 
-💡 Interessado em me tornar um Full Stack futuramente
+💡 Interested in becoming a Full Stack in the future
 
 ---
 <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-### Tecnologias que eu utilizo no meu dia
+### Technology I use in my day
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +35,7 @@
 </div>
 <br/>
 
-### Ferramentas que costumo utilizar
+### Tools I use
 
 <div style="display: inline_block"><br/>
     <img width="50px" aling="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
