@@ -1,8 +1,14 @@
 ## Hello 😃! I'm Isaque Soares
 
-📌 I study Information Systems at the Universidade Estácio de Sá
+## Hello 😃! I'm Isaque Soares
 
-📚 I am studying the Full Stack Master package from Danki Code
+📌 I have a degree in Information Systems from the Universidade Estácio de Sá
+
+📚 I have completed the following courses:
+- Java / Spring Boot | Udemy - Completed
+- Full Stack Developer (PHP) - Tech Academy - StartSe - Completed
+- Desenvolvimento Web (PHP) - Udemy - Completed
+- Desenvolvimento Backend com Java - Santander Universidades - Completed
 
 💡 Interested in becoming a Full Stack in the future
 
@@ -33,6 +39,8 @@
 
 ---
 
-### Contribution Snake
+### Daily Commits
 
-![Snake animation](https://github.com/Dev-Isaque/Dev-Isaque/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dev-Isaque/Dev-Isaque/blob/main/dist/github-snake-dark.svg)
+
+---
