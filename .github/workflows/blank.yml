@@ -20,10 +20,21 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            Dev-Isaque/github-snake.svg
-            Dev-Isaque/github-snake-dark.svg?palette=github-dark
-            Dev-Isaque/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Display Snake animation link
+      # Configura o nome de usuário do Git
+      - name: Configure Git user
         run: |
-          echo "GitHub Snake has been generated. You can see it here: https://github.com/${{ github.repository_owner }}/Dev-Isaque-files/blob/main/Dev-Isaque/github-snake.svg"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+
+      # Commit e push dos arquivos gerados para o repositório
+      - name: Commit and push generated snake files
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}  # Usando o secret do token
+        run: |
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
+          git commit -m "Add generated snake files"
+          git push origin main
