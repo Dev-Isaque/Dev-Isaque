@@ -42,11 +42,11 @@
 ### Tools I use
 
 <div style="display: inline_block"><br/>
+    <img width="50px" align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="50px" align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img width="50px" align="center" alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
     <img width="50px" align="center" alt="Workbench" src="https://img.icons8.com/color/96/000000/mysql-workbench.png" />
     <img width="50px" align="center" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-    <img width="50px" align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ---
