@@ -1,7 +1,5 @@
 ## Hello 😃! I'm Isaque Soares
 
-## Hello 😃! I'm Isaque Soares
-
 📌 I have a degree in Information Systems from the Universidade Estácio de Sá
 
 📚 I have completed the following courses:
