@@ -1,14 +1,17 @@
 ## Hello 😃! I'm Isaque Soares
 
-📌 I have a degree in Information Systems from the Universidade Estácio de Sá
+📌 I have a degree in Information Systems from Universidade Estácio de Sá
 
 📚 I have completed the following courses:
-- Java / Spring Boot | Udemy - Completed
-- Full Stack Developer (PHP) - Tech Academy - StartSe - Completed
-- Desenvolvimento Web (PHP) - Udemy - Completed
-- Desenvolvimento Backend com Java - Santander Universidades - Completed
+- Java / Spring Boot | Udemy – Completed  
+- Full Stack Developer (PHP) – Tech Academy | StartSe – Completed  
+- Desenvolvimento Web (PHP) – Udemy – Completed  
+- Desenvolvimento Backend com Java – Santander Universidades – Completed  
+- Angular Framework – Udemy – Completed  
+- Cybersecurity Professional Certificate – Google / Coursera + CIEE – Completed  
+- Artificial Intelligence Foundations – DIO – Completed  
 
-💡 Interested in becoming a Full Stack in the future
+💡 Full Stack Developer always looking to improve and explore new technologies
 
 ---
 
